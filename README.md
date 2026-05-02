@@ -21,4 +21,3 @@ If you are developing a production application, we recommend using TypeScript wi
 
 this is an empty project to test fork
 
-> > > > > > > 47fa1dc86b5d09ba628a04f9e39d9093119e9e51
